@@ -9,4 +9,4 @@ In this project, I created a simple website with an option to reach specific top
 Inspired by freeCodeCamp.org tutorial: https://www.youtube.com/watch?v=3PHXvlpOkf4
 
 ## Navbar & Scroll Project:
-
+https://idokr1.github.io/Navbar-Scroll-Project-JS/
