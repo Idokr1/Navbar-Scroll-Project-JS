@@ -1,5 +1,5 @@
 # Navbar & Scroll Project
-In this project, I created a simple website with an option to reach specific topics in the website using the navbar buttons and by scrolling using JavaScript and CSS
+In this project I created a simple website with an option to reach specific topics in the website using the navbar buttons and by scrolling using JavaScript and CSS
 
 ## Built With
 - HTML
